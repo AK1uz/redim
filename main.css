@@ -1,0 +1,48 @@
+*{
+    font-family: 'Poppins', sans-serif; 
+ }
+ 
+ .box{
+ 
+    width: 1000px;
+    height: 630px;
+    background-color: black;
+    margin: auto;
+    border: 9px solid red;
+ }
+ 
+ .blok{
+     width: 900px;
+     height: 250px;
+     background-color: rgb(33, 245, 157);
+     margin: auto;
+ }
+ 
+ .bloh{
+     width: 900px;
+     height: 250px;
+     background-color: rgb(33, 245, 157);
+     margin: auto;
+ }
+ 
+ .n{
+     width: 600px;
+     font-size: 60px;
+     background-color: brown;
+     margin: auto;
+     text-align: center;
+ } 
+ 
+ body{
+     background-color: rgb(10, 124, 86);
+ }
+ 
+ .a{
+     font-size: 23px;
+     padding: 20px;
+ }
+ 
+ .v{
+     font-size: 23px;
+     padding: 20px;
+ }
